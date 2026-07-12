@@ -8,12 +8,13 @@
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Building+an+AI+Code+Review+Agent+with+Claude;Preparing+for+Google+Summer+of+Code+2026;Machine+Learning+%2B+Deep+Learning;Open+to+Open+Source+Collaboration" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Preparing+for+Google+Summer+of+Code+2026;Machine+Learning+%2B+Deep+Learning;Building+AI+Powered+Healthcare+Solutions;Open+to+Open+Source+Collaboration" />
 </a>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lishatalele02&label=Profile+Views&color=8A2BE2&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Summer_of_Code-2026_Prep-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -31,69 +32,53 @@
 </a>
 </p>
 
----
-
-<p align="center">
-<img src="https://img.shields.io/badge/Google_Summer_of_Code-2026_Prep-4285F4?style=for-the-badge&logo=googlesummerofcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Currently_Building-AI_Code_Review_Agent-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Open_to_Collaborate-2ea44f?style=for-the-badge"/>
-</p>
-
----
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,sqlite,git,github,vscode,html,css,js,java,c,cpp,docker,linux,aws&perline=10"/>
 </p>
 
----
+<br>
 
 <h2 align="center">Featured Projects</h2>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<img src="https://img.shields.io/badge/SmritiCare-Alzheimer's_Detection-8A2BE2?style=for-the-badge"/>
+</p>
+<p align="center">
+Alzheimer's stage prediction from MRI scans using a CNN, wrapped in a full Flask app with authentication and report generation.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/CNN-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-black?style=flat-square&logo=sqlite&logoColor=white"/>
+<a href="https://smriticare-q3qk.onrender.com"><img src="https://img.shields.io/badge/Live_Demo-2ea44f?style=flat-square"/></a>
+</p>
 
-**SmritiCare**
-Alzheimer's stage prediction from MRI scans using CNNs, with a full Flask app around it.
 <br>
-<img src="https://img.shields.io/badge/CNN-MRI_Classification-8A2BE2?style=flat-square"/>
-<img src="https://img.shields.io/badge/Flask-Auth+Reports-000000?style=flat-square&logo=flask&logoColor=white"/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Wine_Quality-Prediction-8A2BE2?style=for-the-badge"/>
+</p>
+<p align="center">
+Compared Logistic Regression, SVM, and XGBoost to classify wine quality from physicochemical data.
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Logistic_Regression-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/SVM-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/XGBoost-black?style=flat-square"/>
+</p>
+
 <br>
-<a href="https://smriticare-q3qk.onrender.com">Live demo</a>
 
-</td>
-<td width="50%" valign="top">
-
-**Wine Quality Prediction**
-Compared Logistic Regression, SVM, and XGBoost for wine quality classification.
-<br>
-<img src="https://img.shields.io/badge/XGBoost-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/SVM-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Logistic_Regression-2ea44f?style=flat-square"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Emotion Detection**
+<p align="center">
+<img src="https://img.shields.io/badge/Emotion-Detection-8A2BE2?style=for-the-badge"/>
+</p>
+<p align="center">
 Real-time facial emotion recognition using computer vision and deep learning.
-<br>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-**AI Code Review Agent**
-Agent built on the Claude API that analyzes git diffs using tool-calling.
-<br>
-<img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tool_Use-8A2BE2?style=flat-square"/>
-
-</td>
-</tr>
-</table>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Deep_Learning-black?style=flat-square"/>
+</p>
 
 ---
 
@@ -112,19 +97,24 @@ Agent built on the Claude API that analyzes git diffs using tool-calling.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lishatalele02&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<!--
-Animated contribution snake (recommended addition):
-Requires a small GitHub Action in this repo. Once set up, this renders a snake
-eating your contribution graph, animated on every load.
 <p align="center">
-<img src="https://raw.githubusercontent.com/lishatalele02/lishatalele02/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/lishatalele02/lishatalele02/output/github-snake.svg" />
 </p>
--->
 
 ---
 
+<h2 align="center">Contact</h2>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Email-talelelisha26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/lisha-talele-b93525321">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:talelelisha26@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://lishaportfolio.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 </p>
 
 <p align="center"><i>Star a repo below if something here is useful to you.</i></p>
