@@ -1,30 +1,27 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="Lisha Talele Banner">
+  <img src="banner.png" alt="Lisha Talele Banner" width="100%">
 </p>
 
 <h1 align="center">Lisha Talele</h1>
 
 <p align="center">
-Artificial Intelligence & Data Science Student • India
+Artificial Intelligence & Data Science Student
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Building+AI-Powered+Healthcare+Solutions;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Preparing+for+Google+Summer+of+Code+2026;Open+to+Internships+and+Open+Source"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Healthcare+Solutions;Machine+Learning+%7C+Deep+Learning;Computer+Vision;Open+Source+Contributor;Preparing+for+Google+Summer+of+Code+2026"/>
 </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=lishatalele02&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-</p>
 
-<p align="center">
 <a href="https://www.linkedin.com/in/lisha-talele-b93525321">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://lishaportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
 </a>
 
 <a href="mailto:talelelisha26@gmail.com">
@@ -34,88 +31,90 @@ Artificial Intelligence & Data Science Student • India
 <a href="https://smriticare-q3qk.onrender.com">
 <img src="https://img.shields.io/badge/SmritiCare-Live-success?style=for-the-badge"/>
 </a>
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lishatalele02&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
 </p>
 
 ---
 
 ## About
 
-I am an Artificial Intelligence & Data Science student passionate about building practical AI solutions that solve real-world problems.
+Artificial Intelligence & Data Science student passionate about Machine Learning, Deep Learning, Computer Vision and Healthcare AI.
 
-My primary interests include:
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Healthcare AI
-- Open Source
-- Cloud Technologies
-
-Currently I am preparing for Google Summer of Code 2026 while expanding my knowledge of Large Language Models, MLOps and modern AI systems.
+Currently building AI applications, contributing to Open Source and preparing for Google Summer of Code 2026.
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,sqlite,git,github,vscode,html,css,js,java,c,cpp,docker,linux,aws&perline=10"/>
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,mysql,sqlite,git,github,vscode,html,css,js,java,c,cpp,linux,docker&perline=9"/>
+
 </p>
+
+---
+
+## Currently Building
+
+- SmritiCare
+- Open Source Contributions
+- Google Summer of Code 2026
+- Large Language Models
+- MLOps
 
 ---
 
 ## Featured Projects
 
-### SmritiCare — Alzheimer's Disease Prediction
+<p align="center">
 
-AI-powered Alzheimer's stage prediction from MRI scans using a Convolutional Neural Network integrated into a Flask application with authentication, report generation and database support.
+<a href="https://github.com/lishatalele02/SmritiCare">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=SmritiCare&theme=tokyonight&hide_border=true"/>
+</a>
 
-**Tech Stack**
+<a href="https://github.com/lishatalele02/Wine-Quality-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=Wine-Quality-Prediction&theme=tokyonight&hide_border=true"/>
+</a>
 
-`Python` `TensorFlow` `CNN` `Flask` `SQLite`
+</p>
 
-**Live Demo**
+<p align="center">
 
-https://smriticare-q3qk.onrender.com
+<a href="https://github.com/lishatalele02/Emotion-Detector-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=Emotion-Detector-&theme=tokyonight&hide_border=true"/>
+</a>
 
----
+<a href="https://github.com/lishatalele02/My_Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=My_Portfolio&theme=tokyonight&hide_border=true"/>
+</a>
 
-### Wine Quality Prediction
+</p>
 
-Machine Learning project comparing Logistic Regression, Support Vector Machine and XGBoost for predicting wine quality using physicochemical features.
+<p align="center">
 
-**Tech Stack**
+<a href="https://github.com/lishatalele02/Firewall-simulator">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=Firewall-simulator&theme=tokyonight&hide_border=true"/>
+</a>
 
-`Python` `Scikit-Learn` `XGBoost`
+<a href="https://github.com/lishatalele02/AgriConnect">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=AgriConnect&theme=tokyonight&hide_border=true"/>
+</a>
 
----
-
-### Emotion Detection
-
-Real-time facial emotion recognition using Deep Learning and Computer Vision.
-
-**Tech Stack**
-
-`OpenCV` `TensorFlow`
+</p>
 
 ---
 
 ## Achievements
 
-- SIH 2025 Shortlisted among 5,000+ teams nationwide
-- First Prize — Avishkar Poster Presentation
+- SIH 2025 Shortlisted
+- 1st Prize — Avishkar Poster Presentation
 - Top 3 — Alzheimer's Prediction Competition
 - Consolation Prize — Sanjivini TechMantra National
 - Campus Lead — Girls in Tech India
-
----
-
-## Currently Working On
-
-- SmritiCare
-- Google Summer of Code 2026 Preparation
-- Large Language Models
-- MLOps
-- Open Source Contributions
 
 ---
 
@@ -125,13 +124,13 @@ Real-time facial emotion recognition using Deep Learning and Computer Vision.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lishatalele02&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishatalele02&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=lishatalele02&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="65%" src="https://streak-stats.demolab.com?user=lishatalele02&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishatalele02&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -140,31 +139,39 @@ Real-time facial emotion recognition using Deep Learning and Computer Vision.
 ## Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lishatalele02&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## Contact
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/lishatalele02/lishatalele02/output/github-snake.svg"/>
+
+</p>
+
+---
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/lisha-talele-b93525321">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:talelelisha26@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://lishaportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="mailto:talelelisha26@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<i>"Building intelligent systems that create meaningful real-world impact."</i>
+<i>Building AI solutions that solve real-world problems.</i>
 
 </p>
