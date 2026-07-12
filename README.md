@@ -42,7 +42,7 @@ Final-year AI & Data Science student building applied ML and deep learning proje
 <table>
 <tr>
 <td width="45%">
-<img src="assets/smriticare-screenshot.png" alt="SmritiCare" width="100%">
+<img src="smriticare-screenshot.png" alt="SmritiCare" width="100%">
 </td>
 <td width="55%" valign="middle">
 
@@ -70,7 +70,7 @@ Real-time facial emotion recognition using computer vision and deep learning, cl
 
 </td>
 <td width="45%">
-<img src="assets/emotion-detection-screenshot.png" alt="Emotion Detection" width="100%">
+<img src="emotion-detection-screenshot.png" alt="Emotion Detection" width="100%">
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ Real-time facial emotion recognition using computer vision and deep learning, cl
 <table>
 <tr>
 <td width="45%">
-<img src="assets/wine-quality-screenshot.png" alt="Wine Quality Prediction" width="100%">
+<img src="wine-quality-screenshot.png" alt="Wine Quality Prediction" width="100%">
 </td>
 <td width="55%" valign="middle">
 
@@ -92,10 +92,6 @@ Compared Logistic Regression, SVM, and XGBoost models to classify wine quality f
 </td>
 </tr>
 </table>
-
-<br>
-
-> **Note:** drop your project screenshots into an `assets/` folder in this repo (e.g. `assets/smriticare-screenshot.png`) and the images above will render automatically. Until then, GitHub will show a broken image icon in their place.
 
 <br>
 
