@@ -1,177 +1,137 @@
-<p align="center">
-  <img src="banner.png" alt="Lisha Talele Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">Lisha Talele</h1>
+<img src="banner.png" width="100%" alt="Lisha Talele">
 
-<p align="center">
-Artificial Intelligence & Data Science Student
-</p>
+<br><br>
 
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=850&lines=Building+AI-Powered+Healthcare+Solutions;Machine+Learning+%7C+Deep+Learning;Computer+Vision;Open+Source+Contributor;Preparing+for+Google+Summer+of+Code+2026"/>
-</a>
-</p>
+# Lisha Talele
 
-<p align="center">
+### Artificial Intelligence & Data Science Student · India
 
-<a href="https://www.linkedin.com/in/lisha-talele-b93525321">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Preparing+for+Google+Summer+of+Code+2026;Machine+Learning+%2B+Deep+Learning;Building+AI+Powered+Healthcare+Solutions" alt="Typing SVG" />
 
-<a href="https://lishaportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
-</a>
+<br>
 
-<a href="mailto:talelelisha26@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisha-talele-b93525321)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white)](https://lishaportfolio.netlify.app)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=flat-square&logo=gmail&logoColor=white)](mailto:talelelisha26@gmail.com)
+[![SmritiCare](https://img.shields.io/badge/SmritiCare-8A2BE2?style=flat-square&logo=render&logoColor=white)](https://smriticare-q3qk.onrender.com)
 
-<a href="https://smriticare-q3qk.onrender.com">
-<img src="https://img.shields.io/badge/SmritiCare-Live-success?style=for-the-badge"/>
-</a>
+</div>
 
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lishatalele02&label=Profile+Views&color=8A2BE2&style=for-the-badge"/>
-</p>
-
----
+<br>
 
 ## About
 
-Artificial Intelligence & Data Science student passionate about Machine Learning, Deep Learning, Computer Vision and Healthcare AI.
+Final-year AI & Data Science student building applied ML and deep learning projects, with a focus on healthcare applications. Currently preparing to contribute to open source ahead of Google Summer of Code 2026. Shortlisted in SIH 2025 among 5,000+ teams nationwide.
 
-Currently building AI applications, contributing to Open Source and preparing for Google Summer of Code 2026.
-
----
+<br>
 
 ## Tech Stack
 
-<p align="center">
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,fastapi,mysql,sqlite,git,github,vscode,html,css,js,java,c,cpp,docker,linux,aws&perline=10&theme=dark" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,flask,mysql,sqlite,git,github,vscode,html,css,js,java,c,cpp,linux,docker&perline=9"/>
+<br>
 
-</p>
+## Projects
 
----
+<br>
 
-## Currently Building
+<table>
+<tr>
+<td width="45%">
+<img src="assets/smriticare-screenshot.png" alt="SmritiCare" width="100%">
+</td>
+<td width="55%" valign="middle">
 
-- SmritiCare
-- Open Source Contributions
-- Google Summer of Code 2026
-- Large Language Models
-- MLOps
+### SmritiCare
+Alzheimer's stage prediction from MRI scans using a CNN, wrapped in a Flask app with authentication and report generation.
 
----
+`Python` `TensorFlow` `Flask` `SQLite`
 
-## Featured Projects
+[View live &nbsp;→](https://smriticare-q3qk.onrender.com)
 
-<p align="center">
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/lishatalele02/SmritiCare">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=SmritiCare&theme=tokyonight&hide_border=true"/>
-</a>
+<br>
 
-<a href="https://github.com/lishatalele02/Wine-Quality-Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=Wine-Quality-Prediction&theme=tokyonight&hide_border=true"/>
-</a>
+<table>
+<tr>
+<td width="55%" valign="middle">
 
-</p>
+### Emotion Detection
+Real-time facial emotion recognition using computer vision and deep learning, classifying expressions from a live camera feed.
 
-<p align="center">
+`Python` `OpenCV` `Deep Learning`
 
-<a href="https://github.com/lishatalele02/Emotion-Detector-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=Emotion-Detector-&theme=tokyonight&hide_border=true"/>
-</a>
+</td>
+<td width="45%">
+<img src="assets/emotion-detection-screenshot.png" alt="Emotion Detection" width="100%">
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/lishatalele02/My_Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=My_Portfolio&theme=tokyonight&hide_border=true"/>
-</a>
+<br>
 
-</p>
+<table>
+<tr>
+<td width="45%">
+<img src="assets/wine-quality-screenshot.png" alt="Wine Quality Prediction" width="100%">
+</td>
+<td width="55%" valign="middle">
 
-<p align="center">
+### Wine Quality Prediction
+Compared Logistic Regression, SVM, and XGBoost models to classify wine quality from physicochemical properties.
 
-<a href="https://github.com/lishatalele02/Firewall-simulator">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=Firewall-simulator&theme=tokyonight&hide_border=true"/>
-</a>
+`Python` `Scikit-learn` `XGBoost`
 
-<a href="https://github.com/lishatalele02/AgriConnect">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lishatalele02&repo=AgriConnect&theme=tokyonight&hide_border=true"/>
-</a>
+</td>
+</tr>
+</table>
 
-</p>
+<br>
 
----
+> **Note:** drop your project screenshots into an `assets/` folder in this repo (e.g. `assets/smriticare-screenshot.png`) and the images above will render automatically. Until then, GitHub will show a broken image icon in their place.
 
-## Achievements
+<br>
 
-- SIH 2025 Shortlisted
-- 1st Prize — Avishkar Poster Presentation
-- Top 3 — Alzheimer's Prediction Competition
-- Consolation Prize — Sanjivini TechMantra National
-- Campus Lead — Girls in Tech India
+## GitHub Stats
 
----
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lishatalele02&show_icons=true&hide_border=true&theme=default&title_color=8A2BE2&icon_color=8A2BE2&text_color=333333" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishatalele02&layout=compact&hide_border=true&theme=default&title_color=8A2BE2&text_color=333333" />
+</div>
 
-## GitHub Statistics
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=lishatalele02&hide_border=true&background=FFFFFF&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2" />
+</div>
 
-<p align="center">
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lishatalele02&hide_border=true&color=8A2BE2&line=8A2BE2&point=333333&area=true&area_color=8A2BE2" />
+</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lishatalele02&show_icons=true&theme=tokyonight&hide_border=true"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/lishatalele02/lishatalele02/output/github-snake.svg" />
+</div>
 
-<img width="49%" src="https://streak-stats.demolab.com?user=lishatalele02&theme=tokyonight&hide_border=true"/>
+<br>
 
-</p>
+## Contact
 
-<p align="center">
+<div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lishatalele02&layout=compact&theme=tokyonight&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisha-talele-b93525321)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talelelisha26@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lishaportfolio.netlify.app)
 
-</p>
+</div>
 
----
+<br>
 
-## Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lishatalele02&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/lishatalele02/lishatalele02/output/github-snake.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/lisha-talele-b93525321">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://lishaportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge"/>
-</a>
-
-<a href="mailto:talelelisha26@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<i>Building AI solutions that solve real-world problems.</i>
-
-</p>
+<div align="center">
+<sub>If something here is useful to you, consider starring the repo.</sub>
+</div>
