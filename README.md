@@ -8,7 +8,7 @@
 
 ### Artificial Intelligence & Data Science Student · India
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Preparing+for+Google+Summer+of+Code+2026;Machine+Learning+%2B+Deep+Learning;Building+AI+Powered+Healthcare+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Machine+Learning+%2B+Deep+Learning;Building+AI+Powered+Healthcare+Solutions" alt="Typing SVG" />
 
 <br>
 
