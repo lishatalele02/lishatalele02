@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lisha-talele-b93525321)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white)](https://lishaportfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=flat-square&logo=gmail&logoColor=white)](mailto:talelelisha26@gmail.com)
-[![SmritiCare]([https://img.shields.io/badge/SmritiCare-8A2BE2?style=flat-square&logo=render&logoColor=white)](https://smriticare-q3qk.onrender.com](https://smriticare-q3qk.onrender.com/signup))
 
 </div>
 
