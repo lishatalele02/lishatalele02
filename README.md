@@ -50,7 +50,7 @@ Alzheimer's stage prediction from MRI scans using a CNN, wrapped in a Flask app 
 
 `Python` `TensorFlow` `Flask` `SQLite`
 
-[View live &nbsp;→](https://smriticare-q3qk.onrender.com)
+[View live &nbsp;→]([https://smriticare-q3qk.onrender.com](https://smriticare-q3qk.onrender.com/signup))
 
 </td>
 </tr>
